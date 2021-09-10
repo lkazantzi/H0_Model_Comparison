@@ -1,6 +1,8 @@
 # Late transition vs smooth H(z) deformation models for the resolution of the Hubble crisis
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
+[![Travis](https://img.shields.io/badge/language-Python-yellow.svg)]()
+[![Travis](https://img.shields.io/badge/language-C-lightgrey.svg)]()
 
 <p align="center">
 <img src="preview.PNG" width="900" title="preview" />
