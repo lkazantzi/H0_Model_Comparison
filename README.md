@@ -17,7 +17,7 @@ Late time gravitational transitions at low redshifts z_t<0.1 have been proposed 
 ## Instructions - CLASS Implementation
 * Install the [CLASS](https://github.com/brinckmann/class_public) and [MontePython programs](https://github.com/brinckmann/montepython_public) as it is described in the official repositories.
 
-* Substitute the appropriate files with the corresponding ones inside the folders CLASS Implementations and run the programs as usual.
+* Substitute the appropriate files with the corresponding ones inside the folders CLASS Implementations and run the programs as usual. For a step-by-step guide for the modifications implemented in CLASS, [click here](https://cosmology.physics.uoi.gr/wp-content/uploads/2021/07/Class_Implementation-1.pdf)
 
 * In our analysis we include a robust Redshift Space Distortion compilation presented [here](https://arxiv.org/pdf/1806.10822.pdf). For the implementation of the likelihood follow the instructions of [this](https://github.com/snesseris/RSD-growth) github repository.
 
