@@ -5,7 +5,7 @@
 [![Travis](https://img.shields.io/badge/language-C-lightgrey.svg)]()
 
 <p align="center">
-<img src="preview.PNG" width="900" title="preview" />
+<img src="preview.png" width="900" title="preview" />
 </p>
 
 This is the repository that contains part of the codes as well as useful comments that reproduce the figures of our project. The zip folder CLASS Implementations only contains the files that are modified in order to implement the Transition Models in the CLASS and MontePython programs. In particular, the default `background.c`, `input.c` and `background.h` should be substituted with the corresponding files of the zip folder. Furthermore, the `Pantheon_SN` folder should be added to the default `.../montepython/likelihoods` folder in order to correctly implement the transition on the absolute magnitude *M* at z<sub>t</sub>. Finally, in order to estimate the statistical significance of our results we used the Akaike Information Criterion (AIC) as well as the [MCEvidence](https://github.com/yabebalFantaye/MCEvidence) package. For the AIC, we derived the corresponding difference using the Mathematica file `AIC_Calculations.nb`.
