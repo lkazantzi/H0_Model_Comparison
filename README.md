@@ -3,6 +3,7 @@
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-yellow.svg)]()
 [![Travis](https://img.shields.io/badge/language-C-lightgrey.svg)]()
+[![Travis](https://img.shields.io/badge/arXiv-2110.04336-orange.svg?style=flat)](https://arxiv.org/abs/2110.04336)
 
 <p align="center">
 <img src="preview.png" width="900" title="preview" />
